@@ -1,2 +1,2 @@
-# react-node-chat-app
-A basic chat application using React.js and Node.js
+# React QR Code Generator
+A basic React QR Code Generator application using React.js
